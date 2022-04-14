@@ -31,7 +31,7 @@ A social media based application to share and comment on personl thoughts with u
 When the application is installed, run `npm start` to launch application locally. 
 
 ## Link
-https://deep-thoughts-rush0218.herokuapp.com/
+https://discourse-rush.herokuapp.com
 
 
 ## License

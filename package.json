@@ -1,5 +1,5 @@
 {
-  "name": "deep-thoughts",
+  "name": "discourse",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rush0218/deep-thoughts.git"
+    "url": "git+https://github.com/Rush0218/discourse.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rush0218/deep-thoughts/issues"
+    "url": "https://github.com/Rush0218/discourse/issues"
   },
-  "homepage": "https://github.com/Rush0218/deep-thoughts#readme",
+  "homepage": "https://github.com/Rush0218/discourse#readme",
   "devDependencies": {
     "concurrently": "^7.0.0"
   }
