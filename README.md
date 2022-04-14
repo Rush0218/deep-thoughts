@@ -1,9 +1,9 @@
-# Deep Thoughts
+# Discourse
 
 <p>
-    <img src="https://img.shields.io/github/repo-size/rush0218/deep-thoughts" />
-    <img src="https://img.shields.io/github/languages/top/rush0218/deep-thoughts"  />
-    <img src="https://img.shields.io/github/last-commit/rush0218/deep-thoughts" />
+    <img src="https://img.shields.io/github/repo-size/rush0218/discourse" />
+    <img src="https://img.shields.io/github/languages/top/rush0218/discourse"  />
+    <img src="https://img.shields.io/github/last-commit/rush0218/discourse" />
 </p>
 
 
